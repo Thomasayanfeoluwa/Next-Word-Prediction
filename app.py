@@ -81,7 +81,8 @@ top_k = st.sidebar.slider("Top-K Words Considered", 10, 100, 30, 5)
 num_predictions = st.sidebar.slider("Number of Words to Predict", 1, 5, 3, 1)
 
 # Input
-input_text = st.text_input("Enter a text sequence for prediction:", "Thomas is going to the market")
+#input_text = st.text_input("Enter a text sequence for prediction:", "Thomas is going to the market")
+input_text = st.text_input("Enter a text sequence for prediction:", "")  
 
 # Prediction
 if st.button("Predict"):
