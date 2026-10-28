@@ -6,7 +6,7 @@
 [![Built With Python](https://img.shields.io/badge/Built%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://next-word-prediction-h8fmojheupyxavdrrpc4ma.streamlit.app/)
 
----
+----
 
 ## ✨ Project Overview  
 This project leverages advanced NLP techniques (RNNs/LSTMs/Transformers) to predict the next word in a sequence — useful for autocomplete, chatbots, and language tools.
